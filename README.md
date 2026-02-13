@@ -103,6 +103,8 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
 
+<img width="116" height="888" alt="image" src="https://github.com/user-attachments/assets/6f877232-ca2a-4ee9-872f-fed04aa24c88" />
+<img width="141" height="830" alt="image" src="https://github.com/user-attachments/assets/640d44a2-c910-4c91-b6e3-f7220338182b" />
 
 ## RESULT
 Sccessfully implemented Simple Hill Climbing Algorithm
